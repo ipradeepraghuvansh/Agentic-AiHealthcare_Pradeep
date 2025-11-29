@@ -1,0 +1,5 @@
+{
+  "name": "Agentic AI Healthcare Appointment Manager",
+  "description": "An AI-powered web application for healthcare clinics to manage patient appointments and follow-ups efficiently. Patients can book and reschedule appointments, and the system uses AI to optimize scheduling and send automated reminders.",
+  "requestFramePermissions": []
+}
