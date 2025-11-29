@@ -66,4 +66,3 @@ The project is fully ready for deployment on **Vercel**.
 ```bash
 git clone https://github.com/ipradeepraghuvansh/AI-Healthcare-Appointment-System.git
 cd AI-Healthcare-Appointment-System
-
