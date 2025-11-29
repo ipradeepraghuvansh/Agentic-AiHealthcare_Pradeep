@@ -1,20 +1,69 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+# 🏥 AI Healthcare Appointment System  
+**Smart doctor discovery + AI-powered appointment booking**
+
+<img src="./assets/banner-1.png" width="800" />
+<img src="./assets/banner-2.png" width="800" />
+
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+## 🚀 Overview
 
-View your app in AI Studio: https://ai.studio/apps/drive/1wtYgqo4ecjJlT4Y8NBfY89O_1Fb70Po-
+This is a full-stack AI-powered healthcare appointment booking system.  
+Users can:
 
-## Run Locally
+- Browse trusted doctors  
+- Book online appointments  
+- Use **AI Scheduling Agent** for smart appointment suggestions  
+- Manage upcoming & past appointments  
+- Login / Register securely  
 
-**Prerequisites:**  Node.js
+The project is fully ready for deployment on **Vercel**.
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 📦 Tech Stack
+
+### **Frontend**
+- Next.js 14 (App Router)
+- React
+- TailwindCSS
+- ShadCN UI Components
+
+### **Backend / AI**
+- Gemini API (AI Scheduling Agent)
+- API Routes (Next.js Server Actions)
+- MongoDB / Firebase / Local DB (depending on your config)
+
+---
+
+## 🖼 App Screenshots
+
+### ⭐ Home Page  
+<img src="./assets/banner-1.png" width="900" />
+
+### ⭐ Dashboard + AI Scheduling  
+<img src="./assets/banner-2.png" width="900" />
+
+---
+
+## 🛠 Local Setup
+
+### **Prerequisites**
+✔ Node.js (18+)  
+✔ A Gemini API Key – https://aistudio.google.com/app/apikey  
+✔ Git
+
+---
+
+## 📥 Install & Run Locally
+
+1️⃣ **Clone your repository**
+
+```bash
+git clone https://github.com/ipradeepraghuvansh/AI-Healthcare-Appointment-System.git
+cd AI-Healthcare-Appointment-System
+
